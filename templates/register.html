@@ -1,0 +1,11 @@
+<form method="POST">
+    <h2>Register</h2>
+    Username: <input name="username"><br><br>
+    Password: <input name="password" type="password"><br><br>
+    <button type="submit">Register</button>
+</form>
+
+{% if qr %}
+<h3>Scan this QR in Google Authenticator</h3>
+<img src="{{ qr }}" width="200">
+{% endif %}
