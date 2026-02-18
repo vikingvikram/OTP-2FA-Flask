@@ -100,6 +100,7 @@ If invalid → access denied
 **Name:** Vikram Singh  
 **Roll Number:** 22131011610  
 **Admission Number:** 22SCSE1011643  
+**University:** Galgotias University 
 **Department:** B.Tech CSE
 **Project Type:** Individual  
 
