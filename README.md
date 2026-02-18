@@ -21,7 +21,7 @@ A lightweight and secure **TOTP-based 2FA system** that allows users to register
 
 | Component | Technology |
 |----------|------------|
-| Backend  | Flask (Python) |
+| Backend  | Flask(Python) |
 | OTP Engine | PyOTP |
 | QR Code | qrcode + Pillow |
 | Frontend | HTML |
@@ -100,8 +100,7 @@ If invalid → access denied
 **Name:** Vikram Singh  
 **Roll Number:** 22131011610  
 **Admission Number:** 22SCSE1011643  
-**Department:** B.Tech CSE  
-**Guide:** Dr. Rati Bhan  
+**Department:** B.Tech CSE
 **Project Type:** Individual  
 
 ---
@@ -122,4 +121,5 @@ This project is for academic and learning purposes.
 ---
 
 ## ⭐ Show Your Support  
-If you like this project, consider giving it a **star 🌟 on GitHub**.
+If you like this project, consider giving it a **star 🌟 on GitHub**
+we consider your small ratings too,help us if you do have suggestions..we would love to hear your suggestions so that we can improve.
